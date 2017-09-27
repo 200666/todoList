@@ -1,0 +1,19 @@
+#boop{
+	height:30px;
+	width: 100px;
+	padding: 5px;
+	background-color: #34548B;
+	border-radius: 10px;
+	font-size: 15px;
+}
+body{
+	background-color: #adbad0;
+	font-family: 'Roboto Condensed', sans-serif;
+	text-align:center;
+	margin:0 auto;
+	font-color: #0f1929;
+	border: none;
+}
+#input{
+	background-color: white;
+}
